@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💙💙
 
-<!--
-**matheusmelopereira/matheusmelopereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Matheus Melo 
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+  
+### Você pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+matheusmelo@email.com
+
+@matheusmelo
+
+![image](https://github.com/matheusmelopereira/matheusmelopereira/assets/172533647/ddd4b20a-2c62-4d86-9abf-ca37cce6c818)
+
